@@ -1,4 +1,4 @@
-# Merhaba 👋, Ben Muhammet
+# Merhaba 👋, Ben Salih
 
 Siber güvenliğe merak sarmış bir lise öğrencisi,
 
@@ -8,12 +8,11 @@ Siber güvenliğe merak sarmış bir lise öğrencisi,
 ## Hakkımda
 - 🌱 Şu anda Linux, Python, HTML, CSS öğreniyorum.
 - 💬 Herhangi bir konuda sorularınızı sorabilirsiniz.
-- 📫 Bana ulaşmak için: muhammet_cakmak@outlook.com
+- 📫 Bana ulaşmak için: salih_cakmakk@outlook.com
 
 
 ## Bağlantıda Kalın
-- [Twitter](https://x.com/MuhammetCkmak)
-- [LinkedIn](https://www.linkedin.com/in/muhammetcakmakk/)
+- [LinkedIn](https://www.linkedin.com/in/salih-cakmakk/)
 
 ## Teknolojiler
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
